@@ -1,0 +1,2 @@
+this is a test file
+用以测试观察者模式的异步操作
